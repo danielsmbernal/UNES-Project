@@ -7,6 +7,9 @@
 * About us
 * Contact
 
+:no_entry: Rules
+* Only HTML is allowed
+
 <br>
 
 ## AND THAT'S IT!!!
